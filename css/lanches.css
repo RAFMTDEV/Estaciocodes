@@ -1,0 +1,26 @@
+body{text-align: center;
+    background-color: rgb(177, 109, 240);
+    font-size: large;
+}
+
+#header a{ padding: 0px 15px;
+    color: black;
+}
+
+#header {
+    background-color: rgb(99, 33, 161);
+    max-width: 100%;
+}
+
+.lanche{ text-align: center;
+        width: 100%;    
+    #foto img{
+        max-width: 5%;
+        max-height: 5%;
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        overflow: hidden;
+    }
+}
+    
